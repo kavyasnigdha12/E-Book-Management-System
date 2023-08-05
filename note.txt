@@ -1,0 +1,6 @@
+colors from wise:
+#8091b0
+#4e5a8c
+#ebedec
+#475171
+#9bd886
